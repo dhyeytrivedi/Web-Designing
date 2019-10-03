@@ -1,0 +1,23 @@
+.contentbox{
+border: 2px dotted purple;
+  text-align: center;
+}
+.smalltext1{
+  text-align: center;
+  font-size: 9px;
+  color: green;
+}
+.text{
+  text-align: left;
+  font-size: 30px;
+  color: orange;
+}
+.text2{
+  font-size: 30px;
+  color: red;
+}
+.smalltext2{
+  text-align: right;
+  font-size: 5px;
+  color: purple;
+}

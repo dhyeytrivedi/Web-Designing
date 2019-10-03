@@ -1,0 +1,11 @@
+.bigbox{
+  border:5px solid black;
+}
+.box{
+  border: 3px dashed black;
+}
+.imgbox{
+  border: 3px dashed red;
+  height: auto;
+  width: 190px;
+}

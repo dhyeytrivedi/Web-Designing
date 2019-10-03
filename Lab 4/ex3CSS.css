@@ -1,0 +1,17 @@
+div{
+  background-color: green;
+}
+p{
+  background-color: green;
+  color: purple;
+}
+.box{
+  border: 3px dotted black;
+  text-align: left;
+}
+.firstbox1{
+  color: red;
+}
+.firstbox2{
+  color: darkgreen;
+}
