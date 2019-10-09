@@ -1,0 +1,23 @@
+h2{
+  background-color: red;
+  color: white;
+}
+#Header{
+  width: auto;
+  margin: 0 auto;
+  background-color: red;
+  text-align: center;
+  height: 70px;
+}
+#Leftside{
+  text-align: left;
+  background-color: green;
+  color: white;
+}
+#Footer{
+  text-align: left;
+  background-color: blue;
+  color: white;
+  width: auto;
+  height: 70px;
+}

@@ -1,0 +1,34 @@
+body{
+  background-color: green;
+}
+#Wrapper{
+  width: 850px;
+  height: 950px;
+  margin: 0 auto;
+}
+#Title{
+  background-color: red;
+  height: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+#Firstnav1{
+  float: left;
+  height: 100px;
+  background-color: pink;
+  width: 283px;
+}
+#Firstnav2{
+  float: right;
+  height: 100px;
+  background-color: orange;
+  width: 567px;
+}
+#Content{
+  height: 700px;
+  background-color: blue;
+}
+#Footer{
+  height: 70px;
+  background-color: yellow;
+}
