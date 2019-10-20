@@ -1,0 +1,29 @@
+.Color{
+  color: red;
+}
+.Size{
+  font-size: large;
+}
+.Font{
+  font-family:sans-serif;
+}
+h1,h2{
+  color: red;
+}
+h1{
+  text-transform: uppercase;
+}
+div li{
+  color: blue;
+}
+.position1{
+  position: fixed;
+}
+.position2{
+  position: absolute;
+  top: 250px;
+}
+.position3{
+  position: relative;
+  color: red;
+}
