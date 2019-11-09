@@ -1,0 +1,43 @@
+body{
+  background-color: yellow;
+}
+#wrapper{
+    margin: 0 auto;
+    text-align: center;
+    background-color: yellow;
+}
+#header{
+  font-style: italic;
+  width: auto;
+  height: 150px;
+  background-color: red;
+  margin: 0 auto;
+}
+#header2{
+  font-style: italic;
+  text-align: center;
+  margin: 0 auto;
+  height: 50px;
+  background-color: orange;
+}
+#image1{
+  margin: 0 auto;
+  width: 800px;
+  height: 500px;
+}
+#image2{
+  left: 60px;
+  float: left;
+  width: 500px;
+  height: 400px;
+}
+#image3{
+  float: right;
+  width: 500px;
+  height: 400px;
+}
+#image4{
+  float: left;
+  width: 500px;
+  height: 400px;
+}
