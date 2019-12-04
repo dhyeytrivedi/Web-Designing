@@ -1,0 +1,85 @@
+/*final1html*/
+#firstbody{
+background-color: lightblue;
+}
+#header1{
+  width: auto;
+  margin: 0 auto;
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: auto;
+}
+.firstheader{
+text-align: center;
+}
+#secheader{
+  font-style: italic;
+}
+#dogimg{
+  margin: auto;
+  display: block;
+  height: 700px;
+  width: 1000px;
+}
+#list{
+  font-weight: bold;
+}
+.list1{
+  font-weight: normal;
+}
+#para1{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-style: oblique;
+}
+#footer1{
+  background-color: black;
+  height: 80px;
+  width: auto;
+}
+/*final2html*/
+#secondbody{
+  background-color: lightgreen;
+}
+#header2{
+  width: auto;
+  margin: 0 auto;
+  background-color: orange;
+  text-align: center;
+  color: white;
+  height: auto;
+}
+#footer2{
+  background-color: orange;
+  height: 80px;
+  width: auto;
+}
+/*final3html*/
+#thirdbody{
+  background-color: pink;
+}
+#header3{
+  width: auto;
+  margin: 0 auto;
+  background-color: purple;
+  text-align: center;
+  color: white;
+  height: auto;
+}
+#carimg{
+  margin: auto;
+  display: block;
+  height: 500px;
+  width: 700px;
+}
+#para2{
+  text-align: center;
+}
+#footer3{
+  text-align: center;
+  background-color: purple;
+  height: 80px;
+  width: auto;
+}
